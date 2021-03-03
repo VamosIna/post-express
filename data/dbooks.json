@@ -1,0 +1,19 @@
+{
+    "books": [{
+            "id": 1,
+            "isbn": "2019stringtesting",
+            "judul": "Kemarin telat",
+            "sinopsis": "huhu kenapa telat",
+            "penulis": "pelupa email",
+            "genre": "drama"
+        },
+        {
+            "id": 2,
+            "isbn": "14045-kantelat",
+            "judul": "tugas testing",
+            "sinopsis": "belumada",
+            "penulis": "masih horor",
+            "genre": "horor"
+        }
+    ]
+}
